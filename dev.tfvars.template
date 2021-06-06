@@ -1,0 +1,4 @@
+access_key="<access_key>"
+secret_key="<secret_key>"
+region="cn-wulanchabu"
+instance_root_pwd="plaintext"
